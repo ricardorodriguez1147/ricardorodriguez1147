@@ -3,7 +3,7 @@
  I love developing reactive and dynamic forms. I enjoy using frameworks such as Angular, React, Express.js, and .NET, along with their respective programming languages.
 - 🌱 I’m currently learning technologies and tools cloud such as AWS, Azure Google Cloud.
 - 💞️ I’m looking to collaborate in development projects
-- 📫 How to reach me https://x.com/ricardorod1147
+- 📫 How to reach me https://x.com/ricardorod1147    https://www.linkedin.com/in/ricardo-rodr%C3%ADguez-a3a664171/
 - ⚡ Fun fact: I like reading and Rubik's cubes.
 
 <!---
